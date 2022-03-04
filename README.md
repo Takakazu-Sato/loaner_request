@@ -16,7 +16,7 @@ Loaner Request Applicaton : A scoped application that manages the equipment loan
   
 【Create】  
 *Create a new application  ✅  
-*Create tables, fields, and forms  
+*Create tables, fields, and forms　✅  
 *Apply access control  
 *Using Flow Designer to manage the process  
 *Notify stakeholders of critical occurrences  
